@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ejim Chisom, a first class mechatronics engineer graduate.
+- 👋 Hi, I’m Ejim Chisom, a first class mechatronics engineering graduate.
 - 👀 I’m primarily interested in robotics and AI, data analysis and web developent. I also develop games and apps via HTML, javaScript and CSS.
 - 🌱 I’m currently learning SQL using mySQL and cloud engineering.
 - 💞️ I’m looking to collaborate on multiple SQL projects.

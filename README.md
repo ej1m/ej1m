@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Ejim Chisom, a first class mechatronics and robotics engineering graduate.
-- 👀 I’m primarily interested in robotics and AI, data analysis and web developent. I also develop games and apps via HTML, javaScript and CSS.
-- 🌱 I’m currently learning SQL using mySQL and cloud engineering.
-- 💞️ I’m looking to collaborate on multiple SQL projects.
+- 👋 Hi, I’m Ejim Chisom, a solution-oriented first class mechatronics and robotics engineering graduate.
+- 👀 I have a solid foundation in Machine learning, Industrial automation and control systems, IoTs, AI and Data analysis. 
+- 🌱 I’m currently working on Artificial Neural Networks. 
+- 💞️ Contact me let's collaborate on multiple projects.
 - 📫 How to reach me
 - ejimchisom77@gmail.com
-- All my completed projects can be viewed at my repository.
+- Some of my completed projects can be viewed at my repository.
 
 <!---
 ej1m/ej1m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

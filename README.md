@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ejim Chisom, a solution-oriented first class mechatronics and robotics engineering graduate.
 - 👀 I have a solid foundation in Machine learning, Industrial automation and control systems, IoTs, AI and Data analysis. 
-- 🌱 I’m currently working on an Artificial Neural Network project. 
+- 🌱 I’m currently working on a machine learning project. 
 - 💞️ Contact me let's collaborate on multiple projects.
 - 📫 How to reach me
-- ejimchisom77@gmail.com
+- ejim.chisom.precious@gmail.com
 - Some of my completed projects can be viewed at my repository.
 
 <!---
